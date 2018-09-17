@@ -1,5 +1,5 @@
 _repo: In-Red-and-Gold_51974
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Baldridge, Cyrus Leroy
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '6382'
     url: http://www.gutenberg.org/2009/agents/6382
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Leroy_Baldridge
+covers:
+- cover_type: archival
+  image_path: 51974-h/images/cover.jpg
 creator:
   author:
     agent_name: Merwin, Samuel
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2744
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51974#In-Red-and-Gold
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
